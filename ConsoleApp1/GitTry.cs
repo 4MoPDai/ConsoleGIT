@@ -4,6 +4,6 @@ public class GitTry
 {
     public void Execute()
     {
-        Console.Write("Executed!");
+        Console.Write("Want to make a PR!");
     }
 }
